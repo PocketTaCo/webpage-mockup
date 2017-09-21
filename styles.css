@@ -2,9 +2,10 @@
 	background-image: url(https://cdn.discordapp.com/attachments/317228753581506561/359610137977159681/Screenshot_15_edited.jpg);
 	background-repeat: no-repeat;
 	position: relative;
-	height: 300px;
+	height: 332px;
 	max-height: 100%;
-	margin-left: 28.5%;
+	margin-left: 23.8%;
+	margin-top: 7.6%;
 	margin-right: 10%;
 	display: block;
 	text-align: center;
@@ -30,15 +31,11 @@
 	display: block;
 }
 
-#other-websites{
-	background-image: url(https://cdn.discordapp.com/attachments/317228753581506561/359610133623603200/Screenshot_16_edited.jpg);
-	background-repeat: no-repeat;
-	height: 500px;
-	width: 1000px; 
-	margin-left: 31.5%;
-	margin-top: 2%;
-	display: block;
+#other-webpages{
+	display: inline-block;
 	position: relative;
+	margin-left: 23.7%;
+	margin-top: 5%;
 }
 
 #mic{
@@ -46,6 +43,8 @@
 	width: 13px;
 	display: block;
 	position: relative;
-	margin: -29.5%;
-	margin-right: 34%;
+	margin-left: 74.4%;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: -29.2%;
 }
